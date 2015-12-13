@@ -16,7 +16,8 @@ generating their arbitrary email addresses.
 I keep all of my working copies in a single directory.
 
 It looks like this, 
-             
+
+```             
 /dir_top+
         |
      ^  /dir_repos_1/
@@ -27,7 +28,7 @@ It looks like this,
      |         |         
  Top level   Repos      
  Directory    Dir
-
+```
  Place this script (list_svn_users.sh) in the top level
  directory (dir_top).
  
