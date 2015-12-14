@@ -35,7 +35,7 @@ It looks like this,
  Since SVN doesn't care about email addresses the following
  was chosen: migrated@import.pvt
 
-This script will create a file in the dir_top named REPOSNAME-users.txt.
+This script will create a file in the dir_top named `REPOSNAME-users.txt`.
 
 Content of the file looks like this,
 
