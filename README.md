@@ -39,10 +39,10 @@ This script will create a file in the dir_top named REPOSNAME-users.txt.
 
 Content of the file looks like this,
 
-'''
+```
 username1 = username1 <migrated@imported.pvt>
 username2 = username2 <migrated@imported.pvt>
-'''
+```
 
 The file is used in the below command.
 
